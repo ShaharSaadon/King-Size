@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ShaharSaadon/KingSize-Backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ShaharSaadon/e-commerce-react
